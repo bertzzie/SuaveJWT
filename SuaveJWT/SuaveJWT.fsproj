@@ -9,6 +9,7 @@
         <Compile Include="KeyStore.fs" />
         <Compile Include="SuaveJson.fs" />
         <Compile Include="JwtToken.fs" />
+        <Compile Include="Secure.fs" />
         <Compile Include="AuthServer.fs" />
     </ItemGroup>
 
